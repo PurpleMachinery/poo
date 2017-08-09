@@ -12,7 +12,7 @@ public class CadastrarCarro {
 		
 		carro_um.modelo = "Palio";
 		carro_um.ano = 2007;
-		carro_um.cor = "Vermelhor";
+		carro_um.cor = "Vermelho";
 		
 		System.out.println("Modelo: " + carro.modelo);
 		
